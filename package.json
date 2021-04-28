@@ -1,0 +1,12 @@
+{
+  "name": "curso-javascript-ninja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev" : "nodemon challenge-09.js"
+  }
+}
